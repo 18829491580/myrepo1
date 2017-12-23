@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7bfead4-02a0-4720-bd9a-c78a24ab87cd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" afterPath="$PROJECT_DIR$/src/Hello.java" />
-    </list>
+    <list default="true" id="b7bfead4-02a0-4720-bd9a-c78a24ab87cd" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -311,15 +309,15 @@
       <option name="presentableId" value="Default" />
       <updated>1513686643817</updated>
       <workItem from="1513686646925" duration="902000" />
-      <workItem from="1514044190561" duration="22000" />
+      <workItem from="1514044190561" duration="141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="924000" />
+    <option name="totallyTimeSpent" value="1043000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
